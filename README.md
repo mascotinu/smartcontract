@@ -1,5 +1,6 @@
 ![gitHead1](https://user-images.githubusercontent.com/87755147/126633508-8e16aa75-3426-4b2e-9c99-b138f4d95f40.png)
 
+
 # Mascot Inu Smart Contract
 Mascotinu.com smart contract address: 
 
@@ -7,7 +8,8 @@ Mascotinu.com smart contract address:
 https://bscscan.com/address/
 
 # Tokenomic
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
+<b>NEXT GENERATION COMMUNITY-DRIVEN TOKEN</b>\
+The Mascot Inu Protocol is the best you've ever seen. This is a community-driven DeFi Token. The MINU token has three simple functions: Reflection, Automatic LP, and Burn.
 
 * VERIFIED CONTRACT ADDRESS : https://bscscan.com/address/ /
 
@@ -17,16 +19,16 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 🐾 Name : MascotInu\
 🐾 Symbol : MASCOT\
 🐾 Supply: 1,000,000,000,000,000 MASCOT\
-🐾 10 % Total Tax Fee (4% Rewards, 3% Auto LP Generation Mechanism, 2% Charity, 1% Auto Burn)\
-🐾 50 % Presale\
-🐾 27 % Listings & Liquidity\
-🐾 15 % Burn\
+🐾 08 % Total Tax Fee (4% Rewards, 3% Auto LP Generation Mechanism, 1% Auto Burn)\
+🐾 40 % Presale\
+🐾 26 % Listings & Liquidity\
+🐾 26 % Burn\
 🐾 6 % Team & Dev Wallet\
 🐾 2 % Platform fee\
 🐾 Min: 0.01 BNB\
 🐾 Max: 3 BNB\
-🐾 SoftCap: 275 BNB\
-🐾 HardCap: 550 BNB\
+🐾 SoftCap: 750 BNB\
+🐾 HardCap: 1500 BNB\
 🐾 Presale Start time:\
 🐾 Presale End Time: 
 
