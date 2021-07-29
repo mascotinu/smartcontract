@@ -37,7 +37,7 @@ TELEGRAM : https://t.me/mascotinu \
 WEBSITE : https://mascotinu.com \
 TWITTER : https://twitter.com/mascotinu \
 GITHUB : https://github.com/mascotinu \
-AUDIT : 
+AUDIT : Will be published immediately after review...
 
 # Presale
 
