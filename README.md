@@ -44,11 +44,11 @@ AUDIT : Will be published immediately after review...
 Our DxSale Page: \
 🚀 Join Our Telegram Channel To Join The Discussion 🚀
 # How To Buy Mascot Inu 
-1. Create a Metamask Wallet Download/install metamask from Chrome at this link: (https://metamask.io/download.html) Or download/install MetaMask on your phone. Create a wallet or import one, be sure to store your keyphrase safely. \
+1. Create a Metamask Wallet Download/install metamask from Chrome at this link: (https://metamask.io/download.html) Or download/install MetaMask on your phone. Create a wallet or import one, be sure to store your keyphrase safely. 
 
-2. Setting BSC Network: Switch to BSC Network MetaMask to Binance Smart Chain You can buy $MASCOT with the BSC network only. \
+2. Setting BSC Network: Switch to BSC Network MetaMask to Binance Smart Chain You can buy $MASCOT with the BSC network only. 
 
-3. Visit our DxSale Page Open our DxSale page. And buy MASCOT tokens \
+3. Visit our DxSale Page Open our DxSale page. And buy MASCOT tokens 
 
-4. How To Participate And Invest In DxSale Launchpad Step By Step Investing on crowdsales via DxSale: Check it our here: https://www.youtube.com/watch?v=iAZVoOONAIg\ \
+4. How To Participate And Invest In DxSale Launchpad Step By Step Investing on crowdsales via DxSale: Check it our here: https://www.youtube.com/watch?v=iAZVoOONAIg\ 
 
