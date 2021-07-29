@@ -2,22 +2,22 @@
 
 
 # Mascot Inu Smart Contract
-Mascotinu.com smart contract address: 
+Mascotinu.com smart contract address: 0xc3ed773a25e8497761ea96da097f0cd1bff47c85
 
 # Explorer
-https://bscscan.com/address/
+https://bscscan.com/token/0xc3ed773a25e8497761ea96da097f0cd1bff47c85
 
 # Tokenomic
 <b>NEXT GENERATION COMMUNITY-DRIVEN TOKEN</b>\
 The Mascot Inu Protocol is the best you've ever seen. This is a community-driven DeFi Token. The MINU token has three simple functions: Reflection, Automatic LP, and Burn.
 
-* VERIFIED CONTRACT ADDRESS : https://bscscan.com/address/ /
+* VERIFIED CONTRACT ADDRESS : https://bscscan.com/token/0xc3ed773a25e8497761ea96da097f0cd1bff47c85
 
 ![git](https://user-images.githubusercontent.com/87755147/126634459-c375fc6c-1f65-4137-ae4c-04eb351c9e00.png)
 
 
 🐾 Name : MascotInu\
-🐾 Symbol : MASCOT\
+🐾 Symbol : MINU\
 🐾 Supply: 1,000,000,000,000,000 MASCOT\
 🐾 08 % Total Tax Fee (4% Rewards, 3% Auto LP Generation Mechanism, 1% Auto Burn)\
 🐾 40 % Presale\
