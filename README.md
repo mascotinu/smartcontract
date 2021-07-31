@@ -19,29 +19,28 @@ The Mascot Inu Protocol is the best you've ever seen. This is a community-driven
 🐾 Name : MascotInu\
 🐾 Symbol : MINU\
 🐾 Supply: 1,000,000,000,000,000 MASCOT\
-🐾 08 % Total Tax Fee (4% Rewards, 3% Auto LP Generation Mechanism, 1% Auto Burn)\
 🐾 40 % Presale\
 🐾 26 % Listings & Liquidity\
-🐾 26 % Burn\
+🐾 25 % Burn\
 🐾 6 % Team & Dev Wallet\
-🐾 2 % Platform fee\
+🐾 3 % Platform fee\
 🐾 Min: 0.01 BNB\
-🐾 Max: 3 BNB\
+🐾 Max: 5 BNB\
 🐾 SoftCap: 750 BNB\
 🐾 HardCap: 1500 BNB\
-🐾 Presale Start time:\
-🐾 Presale End Time: 
+🐾 Presale Start time: 4 Aug 2021 at 20:00 UTC\
+🐾 Presale End Time: 6 Aug 2021 at 20:00 UTC
 
 # Website and Social Media
 TELEGRAM : https://t.me/mascotinu \
 WEBSITE : https://mascotinu.com \
 TWITTER : https://twitter.com/mascotinu \
 GITHUB : https://github.com/mascotinu \
-AUDIT : Will be published immediately after review...
+AUDIT : https://github.com/mascotinu/smartcontract/blob/main/MascotINU%20Audit.pdf
 
 # Presale
 
-Our DxSale Page: \
+Our DxSale Page: https://dxsale.app/app/v2_9/defipresale?saleID=2005&chain=BSC \
 🚀 Join Our Telegram Channel To Join The Discussion 🚀
 # How To Buy Mascot Inu 
 1. Create a Metamask Wallet Download/install metamask from Chrome at this link: (https://metamask.io/download.html) Or download/install MetaMask on your phone. Create a wallet or import one, be sure to store your keyphrase safely. 
