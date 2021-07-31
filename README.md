@@ -40,8 +40,8 @@ AUDIT : https://github.com/mascotinu/smartcontract/blob/main/MascotINU%20Audit.p
 
 # Presale
 
-Our DxSale Page: https://dxsale.app/app/v2_9/defipresale?saleID=2005&chain=BSC \
-🚀 Join Our Telegram Channel To Join The Discussion 🚀
+Our DxSale Page: https://dxsale.app/app/v2_9/defipresale?saleID=2005&chain=BSC 
+
 # How To Buy Mascot Inu 
 1. Create a Metamask Wallet Download/install metamask from Chrome at this link: (https://metamask.io/download.html) Or download/install MetaMask on your phone. Create a wallet or import one, be sure to store your keyphrase safely. 
 
