@@ -36,7 +36,7 @@ TELEGRAM : https://t.me/mascotinu \
 WEBSITE : https://mascotinu.com \
 TWITTER : https://twitter.com/mascotinu \
 GITHUB : https://github.com/mascotinu \
-AUDIT : https://github.com/mascotinu/smartcontract/blob/main/MascotINU%20Audit.pdf
+AUDIT : https://github.com/TechRate/Smart-Contract-Audits/blob/main/MascotInu%20Full%20Smart%20Contract%20Security%20Audit.pdf
 
 # Presale
 
